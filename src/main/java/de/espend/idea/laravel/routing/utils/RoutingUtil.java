@@ -15,8 +15,8 @@ import com.jetbrains.php.lang.psi.elements.*;
 import de.espend.idea.laravel.stub.RouteIndexExtension;
 import de.espend.idea.laravel.stub.processor.CollectProjectUniqueKeys;
 import fr.adrienbrault.idea.symfony2plugin.codeInsight.utils.PhpElementsUtil;
-import org.apache.commons.lang.ArrayUtils;
-import org.apache.commons.lang.StringUtils;
+import org.apache.commons.lang3.ArrayUtils;
+import org.apache.commons.lang3.StringUtils;
 import org.jetbrains.annotations.NotNull;
 
 import java.util.*;
